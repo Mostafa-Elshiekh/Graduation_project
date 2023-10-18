@@ -1,0 +1,12 @@
+DcMotor.c:10:6:Motor1_Init	16	static
+DcMotor.c:26:6:Motor1_Forward	8	static
+DcMotor.c:32:6:Motor1_Backward	8	static
+DcMotor.c:38:6:Motor1_Stop	8	static
+DcMotor.c:46:6:Motor2_Init	16	static
+DcMotor.c:62:6:Motor2_Forward	8	static
+DcMotor.c:68:6:Motor2_Backward	8	static
+DcMotor.c:74:6:Motor2_Stop	8	static
+DcMotor.c:83:6:DC_Motor	24	static
+DcMotor.c:122:6:WheelChair_Forward	16	static
+DcMotor.c:128:6:WheelChair_Stop	8	static
+DcMotor.c:134:6:WheelChair_Backward	16	static

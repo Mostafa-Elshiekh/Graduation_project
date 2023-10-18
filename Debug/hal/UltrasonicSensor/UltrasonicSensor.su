@@ -1,0 +1,4 @@
+UltrasonicSensor.c:21:6:Ultrasonic_GPIO_Init	16	static
+UltrasonicSensor.c:60:6:Ultrasonic_Trigger	8	static
+UltrasonicSensor.c:69:5:Ultrasonic_Calculate_Distance	24	static
+UltrasonicSensor.c:80:5:Ultrasonic_Read	8	static
